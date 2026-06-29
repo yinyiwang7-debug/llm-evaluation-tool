@@ -1,0 +1,12 @@
+# API Key
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 测试报告（生成文件，不需要上传）
+*.html
+
+# 回归历史记录
+regression_history/
